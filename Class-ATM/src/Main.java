@@ -7,3 +7,5 @@ public class Main {
     atm.ATM_calistir(hesap);
     }
 }
+
+//cok fena gelismisiniz yapmak lazim
